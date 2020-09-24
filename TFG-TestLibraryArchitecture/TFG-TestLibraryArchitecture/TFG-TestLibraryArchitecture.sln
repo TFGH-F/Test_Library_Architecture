@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFG-TestLibraryArchitecture", "TFG-TestLibraryArchitecture.csproj", "{36363862-4F12-4756-BE70-397D6120A168}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaMaestra", "..\LibreriaMaestra\LibreriaMaestra.csproj", "{8982D217-15BA-4F0C-BDEA-2673D25DD4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36363862-4F12-4756-BE70-397D6120A168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36363862-4F12-4756-BE70-397D6120A168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36363862-4F12-4756-BE70-397D6120A168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36363862-4F12-4756-BE70-397D6120A168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8982D217-15BA-4F0C-BDEA-2673D25DD4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8982D217-15BA-4F0C-BDEA-2673D25DD4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8982D217-15BA-4F0C-BDEA-2673D25DD4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8982D217-15BA-4F0C-BDEA-2673D25DD4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D6B605-13BA-4390-A871-0E1BF13A8E7B}
+	EndGlobalSection
+EndGlobal
